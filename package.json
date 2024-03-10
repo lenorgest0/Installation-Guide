@@ -1,0 +1,26 @@
+{
+"name": "niuyeyeyaijiu-hututunana9898",
+"version": "1.0.0",
+"description": "You can install the project with just a few simple steps and start enjoying its functionalities",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lenorgest0/Installation-Guide.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lenorgest0",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
